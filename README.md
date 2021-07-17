@@ -10,3 +10,11 @@ Random Forest model has been used to classify the images. Finally, we use the SH
 for the interpretability of the model’s results.
 
 ![image](https://vizansignblog.files.wordpress.com/2016/02/gender_recognition_digital_signage_singapore.jpg?w=630&h=419)
+
+
+Project for Sapienza Statistical Learning course
+
+Domenico Mattia Cinque
+Liù Arioli
+Nicola Calabrese
+Michelangelo Saveriano
