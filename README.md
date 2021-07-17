@@ -14,7 +14,10 @@ for the interpretability of the model’s results.
 
 Project for Sapienza Statistical Learning course
 
-Domenico Mattia Cinque\\
-Liù Arioli\\
+Domenico Mattia Cinque
+
+Liù Arioli
+
 Nicola Calabrese
+
 Michelangelo Saveriano
